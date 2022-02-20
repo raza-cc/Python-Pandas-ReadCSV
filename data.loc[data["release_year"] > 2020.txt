@@ -1,0 +1,1 @@
+data.loc[data["release_year"] > 2020]
